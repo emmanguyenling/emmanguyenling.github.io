@@ -4,7 +4,7 @@
     - name: Full Name
       value: Emma Nguyen
     - name: Contact
-      value: emma[dot]nguyen[at]newcastle[dot]ac[dot]uk
+      value: emma [dot] nguyen [at] newcastle [dot] ac [dot] uk
 
 - title: Education
   type: time_table
