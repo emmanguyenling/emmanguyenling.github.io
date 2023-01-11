@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Lecturer in Child Language Acquisition <a href='https://www.ncl.ac.uk/elll/people/profile/emmanguyen.html'>Newcastle University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>emma.nguyen [at] newcastle.ac.uk</p>
     <p>Percy Building</p>
     <p>Newcastle University</p>
     <p>Newcastle upon Tyne, UK</p>
