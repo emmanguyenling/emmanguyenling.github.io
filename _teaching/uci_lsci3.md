@@ -2,11 +2,13 @@
 layout: page
 title: lsci3
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/anteater.png
 redirect: assets/pdf/LSCI3_Course Syllabus.pdf
 importance: 2
 category: uci
 ---
+
+<a href="https://www.flaticon.com/free-icons/anteater" title="anteater icons">Anteater icons created by Freepik - Flaticon</a>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
