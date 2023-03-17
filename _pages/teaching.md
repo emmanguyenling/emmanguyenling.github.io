@@ -5,7 +5,7 @@ title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
-display_categories: [newcastle, uci, uconn]
+display_categories: [workshops, newcastle, uci, uconn]
 horizontal: true
 ---
 

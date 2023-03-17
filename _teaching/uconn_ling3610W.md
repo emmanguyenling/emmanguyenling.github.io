@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ling1010
+title: ling3610W
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
