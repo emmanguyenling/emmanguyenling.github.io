@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lsci3
-description: a project with a background image
+description: intro to linguistics
 img: assets/img/anteater.png
 redirect: https://emmanguyenling.github.io/assets/pdf/LSCI3_Syllabus.pdf
 importance: 2

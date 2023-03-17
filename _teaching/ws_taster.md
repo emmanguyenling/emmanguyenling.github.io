@@ -1,7 +1,7 @@
 ---
 layout: page
 title: bitesize CLA
-description: a project that redirects to another website
+description: taster sessions in Child Language Acquisition
 img: assets/img/baby_lion.png
 redirect: https://unsplash.com
 importance: 3

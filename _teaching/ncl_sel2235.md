@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sel2235
-description: a project that redirects to another website
+description: child language acquisition 1
 img: assets/img/lion.png
 importance: 3
 category: newcastle
