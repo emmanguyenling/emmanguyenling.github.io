@@ -3,7 +3,7 @@ layout: page
 title: lsci3
 description: a project with a background image
 img: assets/img/anteater.png
-redirect: assets/pdf/LSCI3_Course Syllabus.pdf
+redirect: https://emmanguyenling.github.io/assets/pdf/LSCI3_Course Syllabus.pdf
 importance: 2
 category: uci
 ---
