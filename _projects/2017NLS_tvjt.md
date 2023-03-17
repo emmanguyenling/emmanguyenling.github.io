@@ -1,12 +1,18 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Nguyen, Lillo-Martin, & Snyder (2017)
+description: Truth Value Judgment Task
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+#redirect: https://unsplash.com
 importance: 3
-category: work
+category: behavioral
 ---
+
+NGUYEN, E., LILLO-MARTIN, D., & SNYDER, W. (2017). ACTIONALITY SPEAKS LOUDER THAN FELICITY: CHILDREN’S COMPREHENSION OF LONG PASSIVES. IN LANGUAGE ACQUISITION AT THE INTERFACES: PROCEEDINGS OF GALA 2015. [PDF-PAPER]
+[TVJT SCRIPT] · [TVJT VIDEO STIMULI]
+A description of what this file contains. These were the stories created to test children's comprehension of the English verbal passive of different verbs in a Truth Value Judgment Task and were crucially modelled after the stories created by O'Brian et al. (2006).
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

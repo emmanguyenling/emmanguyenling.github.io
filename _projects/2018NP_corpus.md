@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nguyen & Pearl (2018)
-description: verb types used in the passive in CDS
+description: verbs and passives used in child directed speech
 img: assets/img/12.jpg
 importance: 1
 category: corpus

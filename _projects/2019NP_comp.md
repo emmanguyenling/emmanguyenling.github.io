@@ -1,7 +1,7 @@
 ---
 layout: page
 title: nguyen & pearl (2019)
-description: 256 filtered models
+description: naive Bayesian filtering model
 img: assets/img/3.jpg
 importance: 2
 category: modeling
