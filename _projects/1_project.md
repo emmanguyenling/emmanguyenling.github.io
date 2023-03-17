@@ -1,11 +1,17 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Nguyen & Pearl (2018)
+description: verb types used in the passive in CDS
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: corpus
 ---
+
+NGUYEN, E. & PEARL, L. (2018). DO YOU REALLY MEAN IT? LINKING LEXICAL SEMANTIC PROFILES AND THE AGE OF ACQUISITION FOR THE ENGLISH PASSIVE. IN THE PROCEEDINGS OF THE WEST COAST CONFERENCE ON FORMAL LINGUISTICS (WCCFL 35). [PDF-PAPER]
+
+[VERB TYPES USED IN THE PASSIVE IN CDS]
+
+A description of what this file contains. This is a summary of the different verbs that were used in the passive in child-directed speech from the CHILDES Treebank.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

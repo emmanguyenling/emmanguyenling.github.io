@@ -27,7 +27,7 @@ What can <b>input frequency</b> and <b>lexical semantic features</b> tell us abo
 
 I use a combination of in-depth corpus analysis, computational modeling, behavioral experiments in order to investigate these questions.
 
-
+Here, you will find research materials that I have made accessible to the public broken down into behavioral experiments, computational modeling, and corpus research. I have also provided the appropriate citations should you wish to make use of this work. If you have any questions, please feel free to contact me.
 
 
 <!-- pages/projects.md -->
