@@ -6,15 +6,15 @@
     - name: Contact
       value: emma [dot] nguyen [at] newcastle [dot] ac [dot] uk
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Linguistics
-      institution: University of Connecticut, Storrs
-      year: 2021
-    - title: MA in Linguistics
-      institution: University of Connecticut, Storrs
-      year: 2017
-    - title: BA in Linguistics
-      institution: University of Maryland, College Park
-      year: 2013
+- #title: Education
+  #type: time_table
+  #contents:
+    - #title: PhD in Linguistics
+      #institution: University of Connecticut, Storrs
+      #year: 2021
+    - #title: MA in Linguistics
+      #institution: University of Connecticut, Storrs
+      #year: 2017
+    - #title: BA in Linguistics
+      #institution: University of Maryland, College Park
+      #year: 2013
