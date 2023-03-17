@@ -2,10 +2,15 @@
 layout: page
 title: Nguyen & Pearl (2018)
 description: verbs and passives used in child directed speech
-img: assets/img/12.jpg
+img: assets/img/talking.png
 importance: 1
 category: corpus
 ---
+
+
+
+
+<a href="https://www.flaticon.com/free-icons/conversation" title="conversation icons">Conversation icons created by Freepik - Flaticon</a>
 
 NGUYEN, E. & PEARL, L. (2018). DO YOU REALLY MEAN IT? LINKING LEXICAL SEMANTIC PROFILES AND THE AGE OF ACQUISITION FOR THE ENGLISH PASSIVE. IN THE PROCEEDINGS OF THE WEST COAST CONFERENCE ON FORMAL LINGUISTICS (WCCFL 35). [PDF-PAPER]
 

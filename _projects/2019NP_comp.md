@@ -2,10 +2,12 @@
 layout: page
 title: nguyen & pearl (2019)
 description: naive Bayesian filtering model
-img: assets/img/3.jpg
+img: assets/img/nlp.png
 importance: 2
 category: modeling
 ---
+
+<a href="https://www.flaticon.com/free-icons/nlp" title="nlp icons">Nlp icons created by Freepik - Flaticon</a>
 
 NGUYEN, E., & PEARL, L. (2019) USING DEVELOPMENTAL MODELING TO SPECIFY LEARNING AND REPRESENTATION OF THE PASSIVE IN ENGLISH CHILDREN. IN PROCEEDINGS OF THE 43RD BOSTON UNIVERSITY CONFERENCE ON LANGUAGE DEVELOPMENT (BUCLD 43). [PDF-PAPER]
 [256 FILTERED MODELS]

@@ -2,11 +2,15 @@
 layout: page
 title: Nguyen, Lillo-Martin, & Snyder (2017)
 description: Truth Value Judgment Task
-img: assets/img/7.jpg
+img: assets/img/reading-book.png
 #redirect: https://unsplash.com
 importance: 3
 category: behavioral
 ---
+
+<a href="https://www.flaticon.com/free-icons/family" title="family icons">Family icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/novel" title="novel icons">Novel icons created by Freepik - Flaticon</a>
 
 NGUYEN, E., LILLO-MARTIN, D., & SNYDER, W. (2017). ACTIONALITY SPEAKS LOUDER THAN FELICITY: CHILDREN’S COMPREHENSION OF LONG PASSIVES. IN LANGUAGE ACQUISITION AT THE INTERFACES: PROCEEDINGS OF GALA 2015. [PDF-PAPER]
 [TVJT SCRIPT] · [TVJT VIDEO STIMULI]

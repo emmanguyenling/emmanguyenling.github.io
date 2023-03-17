@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: nguynen & pearl (2021)
+description: Truth Value Judgment Task
+img: assets/img/fairytale.png
 importance: 3
-category: fun
+category: behavioral
 ---
 
 Every project has a beautiful feature showcase page.
