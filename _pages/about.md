@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>#MyNameIs: em-ma win</p>
     <p><a href="mailto:emma.nguyen@newcastle.ac.uk">emma.nguyen [at] newcastle.ac.uk</a></p>
     <p>Percy Building</p>
     <p>Newcastle University</p>
