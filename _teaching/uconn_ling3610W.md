@@ -2,10 +2,12 @@
 layout: page
 title: ling3610W
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/siberian-husky.png
 importance: 1
 category: uconn
 ---
+
+<a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Freepik - Flaticon</a>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
