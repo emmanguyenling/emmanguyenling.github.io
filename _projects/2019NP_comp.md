@@ -1,11 +1,16 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: nguyen & pearl (2019)
+description: 256 filtered models
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: modeling
 ---
+
+NGUYEN, E., & PEARL, L. (2019) USING DEVELOPMENTAL MODELING TO SPECIFY LEARNING AND REPRESENTATION OF THE PASSIVE IN ENGLISH CHILDREN. IN PROCEEDINGS OF THE 43RD BOSTON UNIVERSITY CONFERENCE ON LANGUAGE DEVELOPMENT (BUCLD 43). [PDF-PAPER]
+[256 FILTERED MODELS]
+A description of what this file contains. This is complete list of the 250 Models that were evaluated based on which lexical semantic features were heeded or ignored.
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
