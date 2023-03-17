@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ling1030
+title: lsci3
 description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
-category: uconn
+category: uci
 ---
 
 Every project has a beautiful feature showcase page.
