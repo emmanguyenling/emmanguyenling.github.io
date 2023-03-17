@@ -3,6 +3,7 @@ layout: page
 title: ling3610W
 description: a project with a background image
 img: assets/img/siberian-husky.png
+redirect: https://emmanguyenling.github.io/assets/pdf/LING3610W_Syllabus.pdf
 importance: 1
 category: uconn
 ---
