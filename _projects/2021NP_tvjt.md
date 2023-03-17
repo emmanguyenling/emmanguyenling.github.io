@@ -1,6 +1,6 @@
 ---
 layout: page
-title: nguynen & pearl (2021)
+title: nguyen & pearl (2021)
 description: Truth Value Judgment Task
 img: assets/img/fairytale.png
 importance: 3
