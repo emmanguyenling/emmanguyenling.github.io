@@ -2,12 +2,33 @@
 layout: page
 title: research
 permalink: /research/
-description: A growing collection of your cool projects.
+#description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
 display_categories: [behavioral, modeling, corpus]
 horizontal: false
 ---
+
+<u>Broadly, my research asks:</u>
+
+What is the role of <b>evidence</b>, or the language input which must be processed to develop language competence, in the acquisition of complex syntactic structures?
+
+*How might we characterize and quantify evidence?
+
+*How does looking at the evidence differently change the way we perceive the learning problem?
+
+Given that there’s cross-linguistic variation and variation in a child’s input, how do children learn <b>which verbs participate</b> in any given complex syntactic structure (e.g. passives, double-object constructions, etc.).
+
+*How can learning the lexical semantics of a verb be informative for children in such a learning task?
+
+<u>Specifically, my research asks:</u>
+
+What can <b>input frequency</b> and <b>lexical semantic features</b> tell us about how children acquire the English verbal passive?
+
+I use a combination of in-depth corpus analysis, computational modeling, behavioral experiments in order to investigate these questions.
+
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
