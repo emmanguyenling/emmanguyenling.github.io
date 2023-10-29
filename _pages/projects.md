@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-#description: A growing collection of your cool projects.
+description: CURRENTLY UNDER CONSTRUCTION
 nav: true
 nav_order: 2
 display_categories: [behavioral, modeling, corpus]
