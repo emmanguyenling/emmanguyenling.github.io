@@ -2,14 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: CURRENTLY UNDER CONSTRUCTION
 nav: true
 nav_order: 5
 display_categories: [workshops, newcastle, uci, uconn]
 horizontal: true
 ---
 
-Organize your courses by years, topics, or universities, however you like!
+
 
 <!-- pages/teaching.md -->
 <div class="projects">
