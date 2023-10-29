@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer (= Tenured Assistant Professor) in Child Language Acquisition in the <a href='https://www.ncl.ac.uk/elll/'>School of English Literature, Language and Linguistics</a> at Newcastle University in the UK. I am currently investigating the quantity and quality of input that is developmentally meaningful for children learning the same language.
+I am a Lecturer (= Tenured Assistant Professor) in Child Language Acquisition in the <a href='https://www.ncl.ac.uk/elll/'>School of English Literature, Language and Linguistics</a> at Newcastle University in the UK. In my research, I investigate the quantity and quality of input that is developmentally meaningful for children learning the same language particularly in their acquisition of complex syntactic knowledge such as the verbal passive.
 
 Previously, I was a Postdoctoral Researcher in Language Science at the University of California, Irvine, working with Lisa Pearl and funded by an SPRF grant from the National Science Foundation.
 
